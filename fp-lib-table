@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ADS124S06IPBS")(type "KiCad")(uri "${KIPRJMOD}/libs/ADS124S06IPBS.pretty")(options "")(descr ""))
+)
